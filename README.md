@@ -18,5 +18,4 @@ I will tell you not only about the third-party libraries, but also how to use th
 
 ## Motivation and explanation
 
-https://geekjob.tech/make-gui-in-macos-terminal-307bf2a0798
-
+[Make GUI in MacOS Terminal](https://geekjob.medium.com/make-gui-in-macos-terminal-307bf2a0798)
